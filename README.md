@@ -1,0 +1,1 @@
+This repository offers a step-by-step guide for the responsible use of data science in agriculture. It includes code to replicate the process. We encourage users to support this work by citing Data Science for Pattern Recognition in Agricultural Large Time Series Data: A Case Study on Sugarcane Sucrose Yield, published in Heliyon.
